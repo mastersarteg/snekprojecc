@@ -9,3 +9,6 @@ PyGame, torch, torchvision, numpy
 then download all files and open the directory in terminal and put command 
 
 "python agent.py"
+
+
+Ps: I had a lot of help from youtube tutorials and similar online resources while making this and going through those resources has piqued my interest even more in this field of programming. 
