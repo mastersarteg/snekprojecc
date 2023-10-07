@@ -7,7 +7,7 @@ The project is a simple snake game based on pygame which I have then automated u
 To run, you need to install the following modules <br>PyGame <br>torch <br>torchvision <br>numpy
 <br>then download all files and open the directory in terminal and put command 
 
-    "python agent.py"
+    python agent.py
 
 
 Ps: I had a lot of help from youtube tutorials and similar online resources while making this and going through those resources has piqued my interest even more in this field of programming. 
