@@ -10,4 +10,4 @@ To run, you need to install the following modules <br>PyGame <br>torch <br>torch
     python agent.py
 
 
-Ps: I had a lot of help from youtube tutorials and similar online resources while making this and going through those resources has piqued my interest even more in this field of programming. 
+Ps: I had a lot of help from youtube tutorials and similar online resources to create the Qlearning model and going through those resources has piqued my interest even more in this field of programming. 
