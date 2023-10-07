@@ -6,7 +6,6 @@ The project is a simple snake game based on pygame which I have then automated u
 <br> <br> To run, you need to install the following modules <br> <br>
     • pygame <br>
     • torch <br>
-    • torchvision <br>
 <br>
 To install aforementioned modules run the following commands in terminal <br> _(You will need to have a relatively recent version of python already installed on your machine)_
 
