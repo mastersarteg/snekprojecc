@@ -10,8 +10,6 @@ screen = pygame.display.set_mode((600, 600))
 
 APPLE = pygame.image.load('Graphics/PixelApple.png').convert_alpha()
 
-
-
 BLOCK_SIZE = 20
 SPEED = 50
 
