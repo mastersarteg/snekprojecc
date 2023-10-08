@@ -19,4 +19,6 @@ After that, Run the code by opening the terminal in the same directory as all th
 
     python agent.py
 
-Ps: I had a lot of help from youtube tutorials and similar online resources to develop the Qlearning model and going through those resources has piqued my interest even more in this field of programming. 
+Ps: <br>• It takes the IDIOT<sup>TM</sup> about 80 to 100 games to do anything remarkable
+
+•I had a lot of help from youtube tutorials and similar online resources to develop the Qlearning model and going through those resources has piqued my interest even more in this field of programming. 
